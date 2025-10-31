@@ -1,20 +1,22 @@
 ## Hi there 👋
 
 I'm Imran Sikder — a CSE student and aspiring Cyber Security Expert.
+
 I am passionate about ethical hacking, network security, and building secure digital systems.
+
 I love learning how technology works at a deep level — from operating systems to networking and cyber defense. 
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: <br>  Building cybersecurity tools, penetration testing labs, and Python automation scripts for security tasks.<br><br>
-- 🌱 I’m currently learning: <br>  Advanced Penetration Testing, Digital Forensics, Network Defense, SIEM tools (Splunk/Wazuh), and AI in Cybersecurity.<br><br>
-- 👯 I’m looking to collaborate on: <br>  Security research, open-source pentesting tools, Capture-The-Flag (CTF) write-ups, and Python security automation.<br><br>
-- 🤔 I’m looking for help with: <br>  Advanced malware analysis, threat intelligence, and AI-powered security systems.<br><br>
-- 💬 Ask me about: <br>  Cybersecurity, ethical hacking, network security, penetration testing, Python scripts, and Linux security.<br><br>
-- 📫 How to reach me: <br>
-  📧 imransikderofficial@gmail.com  <br>
-  🌍 Bangladesh  <br><br>
-- 😄 Pronouns: <br>  He/Him<br><br>
-- ⚡ Fun fact: <br>  I break systems to make them stronger — ethically 😎🔐<br>
+- 🔭 I’m currently working on: Cyber security practice labs & automation scripts
+- 🌱 I’m currently learning: Ethical hacking, networking & Python
+- 👯 I’m looking to collaborate on: Security tools & student tech projects
+- 🤔 I’m looking for help with: Advanced penetration testing techniques
+- 💬 Ask me about: Linux, Cyber security basics, Python
+- 📫 How to reach me: imransikderofficial@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I break systems to secure them 😎🔐
+
 
 
 ## 🌐 Socials:
