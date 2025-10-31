@@ -1,13 +1,5 @@
 ## Hi there 👋
 
-I'm Imran Sikder — a CSE student and aspiring Cyber Security Expert.
-
-I am passionate about ethical hacking, network security, and building secure digital systems.
-
-I love learning how technology works at a deep level — from operating systems to networking and cyber defense. 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: Cyber security practice labs & automation scripts
 - 🌱 I’m currently learning: Ethical hacking, networking & Python
 - 👯 I’m looking to collaborate on: Security tools & student tech projects
@@ -16,6 +8,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: imransikderofficial@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I break systems to secure them 😎🔐
+
+💫 About Me:
+
+I'm Imran Sikder — a CSE student and aspiring Cyber Security Expert.
+I am passionate about ethical hacking, network security, and building secure digital systems.
+I love learning how technology works at a deep level — from operating systems to networking and cyber defense. 
+
 
 
 
